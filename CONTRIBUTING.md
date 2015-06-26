@@ -42,7 +42,7 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, official working group members may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event). Individuals who have been banned will be [blocked on GitHub](https://help.github.com/articles/blocking-a-user/) for the Hardware repo and prohibited from participating in any webcasts or other online or offline Node.js Hardware Working Group events.
+If a community member engages in unacceptable behavior, official working group members may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event). Individuals who have been banned will be prohibited from participating in GitHub discussions, issues, pull requests, any webcasts or other online or offline Node.js Hardware Working Group events.
 
 ### If You Witness or Are Subject to Unacceptable Behavior
 
@@ -58,9 +58,13 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 ### Contact Info
 
-If you need to report an incident, please email us at _insert email here_, or talk to any of the organizers at an event. In addition, you can contact any of the following official working group members directly:
+If you need to report an incident, please email us at [nodejshardware@theoreticalideations.com](mailto:nodejshardware@theoreticalideations.com), or talk to any of the organizers in the case of an in-person event. In addition, you may contact any of the following official working group members directly:
 
-_Insert people here_
+Chris Williams: voodootikigod@gmail.com
+
+Kassandra Perch: the@nodebotani.st
+
+Bryan Hughes: bryan@theoreticalideations.com
 
 ### Credit, License, and Attribution
 
