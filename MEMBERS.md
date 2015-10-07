@@ -8,3 +8,4 @@ Members:
 - Bryan Hughes  ([@nebrius](https://github.com/nebrius/))
 - Francis Gulotta ([@reconbot](https://github.com/reconbot/))
 - Donovan Buck ([@dtex](https://github.com/dtex/))
+- Joshua Perry ([@joshperry](https://github.com/joshperry/))
