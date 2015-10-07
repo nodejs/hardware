@@ -8,7 +8,7 @@ The Node.js Hardware Working Group loves hardware, and we hope you love hardware
 
 The purpose of this working group is to identify and remove barriers to entry for working with NodeBots. We are focused on barriers to entry that are related to Node.js and surrounding technologies, such as NPM.
 
-We focus on difficulties that users encounter when consuming common hardware libraries, primarily [Johnny-Five](http://johnny-five.io/), and difficulties that developers encounter when creating and distributing these libraries.
+This working group is focused on the difficulties that users encounter when consuming common hardware libraries and the difficulties that developers face when creating and distributing these libraries.
 
 ## Contributing
 
