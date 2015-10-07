@@ -7,3 +7,4 @@ Members:
 - Chris Williams ([@voodootikigod](https://github.com/voodootikigod))
 - Bryan Hughes  ([@nebrius](https://github.com/nebrius/))
 - Francis Gulotta ([@reconbot](https://github.com/reconbot/))
+- Donovan Buck ([@dtex](https://github.com/dtex/))
