@@ -6,3 +6,4 @@ If you are curious what the responsibilities of a Hardware WG member are, or how
 Members:
 - Chris Williams ([@voodootikigod](https://github.com/voodootikigod))
 - Bryan Hughes  ([@nebrius](https://github.com/nebrius/))
+- Francis Gulotta ([@reconbot](https://github.com/reconbot/))

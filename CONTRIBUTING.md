@@ -21,8 +21,8 @@ For the purposes of this document, a WG member is a person identified as a membe
 
 In practice, a WG member has the following rights and responsibilities
 
-* Push/merge access to this repository
-* Listed as a point of contact for people if they are experiencing [Code of Conduct below](#code-of-conduct) issues
+* Commit access to this repository
+* Listed as a point of contact for people if they are experiencing [Code of Conduct](#code-of-conduct) issues
 
 The current list of members is maintained [here](./MEMBERS.md).
 
@@ -69,7 +69,7 @@ CoC](http://www.rust-lang.org/conduct.html).
 * Private harassment is also unacceptable. No matter who you are, if
   you feel you have been or are being harassed or made uncomfortable
   by a community member, please contact one of the channel ops or any
-  of the WG members immediately with a capture (log, photo, email) of
+  of the [WG members](./MEMBERS.md) immediately with a capture (log, photo, email) of
   the harassment if possible.  Whether you're a regular contributor or
   a newcomer, we care about making this community a safe place for you
   and we've got your back.
