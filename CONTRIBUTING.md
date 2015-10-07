@@ -26,6 +26,8 @@ In practice, a WG member has the following rights and responsibilities
 
 The current list of members is maintained [here](./MEMBERS.md).
 
+If you are interesting in becoming a member, ping the group in the Gitter channel.
+
 ## Developer's Certificate of Origin 1.0
 
 By making a contribution to this project, I certify that:
