@@ -9,4 +9,5 @@ Members:
 - Suz Hinton ([@noopkat](https://github.com/noopkat/))
 - Bryan Hughes  ([@nebrius](https://github.com/nebrius/))
 - Joshua Perry ([@joshperry](https://github.com/joshperry/))
+- David Resseguie ([@Resseguie](http://github.com/Resseguie))
 - Chris Williams ([@voodootikigod](https://github.com/voodootikigod))
