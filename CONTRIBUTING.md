@@ -13,7 +13,7 @@ All official work is done via [GitHub issues](https://github.com/nodejs/hardware
 
 We also use [Gitter](https://gitter.im/nodejs/hardware), a chat system similar to IRC but based around GitHub. Gitter is used for all sorts of chat, from formulating raw ideas, to more free-form discussion of specific issues, to posting funny robot videos and cat gifs.
 
-If you're interesting in participating, hop on in to Gitter and say hi! We'll let you know how and where you can help.
+If you're interesting in participating, hop on in to Gitter and say hi! We'll give you some ideas on how and where you can help.
 
 ## Working Group Members
 
