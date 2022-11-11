@@ -1,7 +1,5 @@
 # Hardware Team
 
-[![Join the chat at https://gitter.im/nodejs/hardware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 The Node.js Hardware Team loves hardware, and we hope you love hardware too! The whole ethos behind NodeBots is to make working with hardware accessible for everyone.
 
 ## Mission
